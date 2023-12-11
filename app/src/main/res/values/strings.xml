@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">pr28</string>
+    <string name="clock">Часики</string>
+    <string name="moon">Луна</string>
+    <string name="grass">Трава</string>
+    <string name="sky">Небо</string>
+    <string name="cloud">Облоко</string>
+    <string name="hour">Стрелка</string>
+</resources>
